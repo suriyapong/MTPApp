@@ -1,0 +1,8 @@
+C:\Users\suriyapong sinyod\Desktop\TestGit\MTPLibrary\bin\Debug\netcoreapp2.0\MTPLibrary.deps.json
+C:\Users\suriyapong sinyod\Desktop\TestGit\MTPLibrary\bin\Debug\netcoreapp2.0\MTPLibrary.dll
+C:\Users\suriyapong sinyod\Desktop\TestGit\MTPLibrary\bin\Debug\netcoreapp2.0\MTPLibrary.pdb
+C:\Users\suriyapong sinyod\Desktop\TestGit\MTPLibrary\obj\Debug\netcoreapp2.0\MTPLibrary.csproj.CoreCompileInputs.cache
+C:\Users\suriyapong sinyod\Desktop\TestGit\MTPLibrary\obj\Debug\netcoreapp2.0\MTPLibrary.AssemblyInfoInputs.cache
+C:\Users\suriyapong sinyod\Desktop\TestGit\MTPLibrary\obj\Debug\netcoreapp2.0\MTPLibrary.AssemblyInfo.cs
+C:\Users\suriyapong sinyod\Desktop\TestGit\MTPLibrary\obj\Debug\netcoreapp2.0\MTPLibrary.dll
+C:\Users\suriyapong sinyod\Desktop\TestGit\MTPLibrary\obj\Debug\netcoreapp2.0\MTPLibrary.pdb

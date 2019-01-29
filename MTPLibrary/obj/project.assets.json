@@ -196,16 +196,6 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
-      },
-      "MTPLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.0",
-        "compile": {
-          "bin/placeholder/MTPLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MTPLibrary.dll": {}
-        }
       }
     }
   },
@@ -666,16 +656,10 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
-    },
-    "MTPLibrary/1.0.0": {
-      "type": "project",
-      "path": "../MTPLibrary/MTPLibrary.csproj",
-      "msbuildProject": "../MTPLibrary/MTPLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "MTPLibrary >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -686,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\suriyapong sinyod\\Desktop\\TestGit\\TestGit\\TestGit.csproj",
-      "projectName": "TestGit",
-      "projectPath": "C:\\Users\\suriyapong sinyod\\Desktop\\TestGit\\TestGit\\TestGit.csproj",
+      "projectUniqueName": "C:\\Users\\suriyapong sinyod\\Desktop\\TestGit\\MTPLibrary\\MTPLibrary.csproj",
+      "projectName": "MTPLibrary",
+      "projectPath": "C:\\Users\\suriyapong sinyod\\Desktop\\TestGit\\MTPLibrary\\MTPLibrary.csproj",
       "packagesPath": "C:\\Users\\suriyapong sinyod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\suriyapong sinyod\\Desktop\\TestGit\\TestGit\\obj\\",
+      "outputPath": "C:\\Users\\suriyapong sinyod\\Desktop\\TestGit\\MTPLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -708,11 +692,7 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {
-            "C:\\Users\\suriyapong sinyod\\Desktop\\TestGit\\MTPLibrary\\MTPLibrary.csproj": {
-              "projectPath": "C:\\Users\\suriyapong sinyod\\Desktop\\TestGit\\MTPLibrary\\MTPLibrary.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -725,6 +705,7 @@
       "netcoreapp2.0": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true

@@ -1,0 +1,14 @@
+C:\Users\suriyapong sinyod\Desktop\TestGit\TestGit\bin\Debug\netcoreapp2.0\TestGit.deps.json
+C:\Users\suriyapong sinyod\Desktop\TestGit\TestGit\bin\Debug\netcoreapp2.0\TestGit.runtimeconfig.json
+C:\Users\suriyapong sinyod\Desktop\TestGit\TestGit\bin\Debug\netcoreapp2.0\TestGit.runtimeconfig.dev.json
+C:\Users\suriyapong sinyod\Desktop\TestGit\TestGit\bin\Debug\netcoreapp2.0\TestGit.dll
+C:\Users\suriyapong sinyod\Desktop\TestGit\TestGit\bin\Debug\netcoreapp2.0\TestGit.pdb
+C:\Users\suriyapong sinyod\Desktop\TestGit\TestGit\bin\Debug\netcoreapp2.0\MTPLibrary.dll
+C:\Users\suriyapong sinyod\Desktop\TestGit\TestGit\bin\Debug\netcoreapp2.0\MTPLibrary.pdb
+C:\Users\suriyapong sinyod\Desktop\TestGit\TestGit\obj\Debug\netcoreapp2.0\TestGit.csprojAssemblyReference.cache
+C:\Users\suriyapong sinyod\Desktop\TestGit\TestGit\obj\Debug\netcoreapp2.0\TestGit.csproj.CoreCompileInputs.cache
+C:\Users\suriyapong sinyod\Desktop\TestGit\TestGit\obj\Debug\netcoreapp2.0\TestGit.AssemblyInfoInputs.cache
+C:\Users\suriyapong sinyod\Desktop\TestGit\TestGit\obj\Debug\netcoreapp2.0\TestGit.AssemblyInfo.cs
+C:\Users\suriyapong sinyod\Desktop\TestGit\TestGit\obj\Debug\netcoreapp2.0\TestGit.csproj.CopyComplete
+C:\Users\suriyapong sinyod\Desktop\TestGit\TestGit\obj\Debug\netcoreapp2.0\TestGit.dll
+C:\Users\suriyapong sinyod\Desktop\TestGit\TestGit\obj\Debug\netcoreapp2.0\TestGit.pdb
